@@ -210,7 +210,7 @@ with st.sidebar:
         <b>💬 Butuh bantuan?</b><br>
         Hubungi kami via WhatsApp atau email untuk setup & customisasi.<br><br>
         <b>WA:</b> +62 xxx-xxxx-xxxx<br>
-        <b>Email:</b> fasfast@email.com
+        <b>Email:</b> fasfast@proton.me
     </div>
     """, unsafe_allow_html=True)
 
