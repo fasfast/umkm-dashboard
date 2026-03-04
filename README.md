@@ -28,8 +28,7 @@
 ---
 
 ## 🖼️ Tampilan Dashboard
-
-> *(Screenshot menyusul setelah deploy)*
+🔗 **[Lihat Live Demo → umkm-dashboard.streamlit.app](https://umkm-dashboard.streamlit.app)**
 
 ---
 
